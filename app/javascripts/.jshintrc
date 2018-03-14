@@ -1,0 +1,8 @@
+{
+    "node": true,
+    "browser": true,
+    "jquery": true,
+    "asi": true,
+    "esversion": 6,
+    "laxbreak": true
+}
